@@ -56,20 +56,16 @@
   .tecnologia-bg {
     box-shadow: initial;
   }
-
   .tecnologia {
     grid-template-columns: 1fr;
   }
-
   .tecnologia-conteudo {
     padding-top: 60px;
     padding-bottom: 60px;
   }
-
   .tecnologia-imagem {
     display: none;
   }
-
   .tecnologia-conteudo a {
     margin-bottom: 60px;
   }
