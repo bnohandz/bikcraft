@@ -3,6 +3,7 @@
 }
 
 .seguros {
+  padding-top: 60px;
   padding-bottom: 60px;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -59,6 +60,10 @@
   background-image: url("../../img/icones/lista.svg");
   position: absolute;
   left: -21px;
+}
+
+.seguros-item a {
+  grid-column: 1/-1;
 }
 
 @media (max-width: 800px) {
